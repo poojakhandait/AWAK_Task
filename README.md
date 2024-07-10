@@ -4,7 +4,7 @@
         it uses a loading spinner during form submission and provides an eye icon to toggle the visibility of the password.
   
 <h3>#Files</h3>
-     - `index.html`: The main HTML file that contains the structure of the login page.
+     <p>- `index.html`: The main HTML file that contains the structure of the login page.</p>
      - `styles.css`: The CSS file that styles the login page.
      - `script.js`: The JavaScript file that handles form validation and submission.
      
