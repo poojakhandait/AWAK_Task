@@ -39,15 +39,20 @@
                            <p>xdg-open index.html</p>
 <h3>#External Libraries Used</h3>
                             <p>FontAwesome for icons</p>
-<h3>Using the Login Page:</h3>
+<h3>#Using the Login Page:</h3>
                             <p>Enter a username or email in the "Username/Email" field.</p>
                              <p>Enter a password in the "Password" field.</p>
                             <p>Optionally, check the "Remember Me" checkbox.</p>
                             <p>Click the "Submit" button to simulate a login process.</p>
                              <p>If there are validation errors, appropriate error messages will be displayed.</p>
                            <p>The loading spinner will appear while the simulated login request is processed.</p>
-<h3>For Project Result You Can Click On This Link:</h3>
+<h3>#For Project Result You Can Click On This Link:</h3>
       <p style="color:blue;">https://poojakhandait.github.io/AWAK_Task/</p>
+<h3>#Notes</h3>
+       <p>The form submission is handled by JavaScript (script.js). It simulates an API login request using fetch with a mock URL.</p>
+       <p>The form fields are validated for required inputs and proper email format.</p>
+       <p>The password must be at least 6 characters long.</p>
+        <p>If "Remember Me" is checked, the username is stored in localStorage.</p>
                            
                            
 
