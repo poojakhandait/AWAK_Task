@@ -145,7 +145,7 @@ button:hover {
 }
 @media (max-width: 480px) {
     .login-container {
-        width: 90%;
+        width: 85%;
         padding: 10px;
     }
     h2 {
