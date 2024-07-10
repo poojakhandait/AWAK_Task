@@ -10,8 +10,17 @@
      
 <h3>#Instructions to Run the Project</h3>
 
-     <h4>*Prerequisites</h4>
+     ### Prerequisites:
                 Before you begin, ensure you have met the following requirements:
+                    - A web browser (e.g., Chrome, Firefox, Safari)
+                    - An internet connection (for loading external libraries like FontAwesome)
+      ### Running the Project:
+                Follow these steps to run the project locally:
+                     1. **Clone the Repository:**
+                           Clone the project repository from GitHub to your local machine using the following command:
+                           
+                                  git clone https://github.com/your-username/your-repository.git
+
 
 
         
