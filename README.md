@@ -8,13 +8,13 @@
      <p>- `styles.css`: The CSS file that styles the login page.</p>
      <p>- `script.js`: The JavaScript file that handles form validation and submission.</p>
      
-<h3>#Instructions to Run the Project</h3>
+<h3>#Instructions to Run the Project:</h3>
 
- <h4>### Prerequisites:</h4>
-                Before you begin, ensure you have met the following requirements:
-                    - A web browser (e.g., Chrome, Firefox, Safari)
-                    - An internet connection (for loading external libraries like FontAwesome)
-<h4>### Running the Project:</h4>
+ <h4>*Prerequisites:</h4>
+                <p>Before you begin, ensure you have met the following requirements:</p>
+                    <p>- A web browser (e.g., Chrome, Firefox, Safari)</p>
+                    <p>- An internet connection (for loading external libraries like FontAwesome)</p>
+<h4>*Running the Project:</h4>
                 Follow these steps to run the project locally:
                      1. **Clone the Repository:**
                            Clone the project repository from GitHub to your local machine using the following command:
