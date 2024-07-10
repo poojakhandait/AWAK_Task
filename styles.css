@@ -41,7 +41,7 @@ input {
 
 .input-container {
     position: relative;
-   width: 98%;
+   width: 95%;
 
 }
 .input-container input {
@@ -59,7 +59,7 @@ input {
 }
 .password-container {
     position: relative;
-       width: 100%;
+       width: 95%;
 }
 
 .password-container input {
