@@ -24,7 +24,7 @@
                     <p>- An internet connection (for loading external libraries like FontAwesome)</p>
 <h4>*Running the Project:</h4>
                 <h5>Follow these steps to run the project locally:</h5>
-                     <p>1.Clone the Repository:</p>
+                     <p style="color:green;">1.Clone the Repository:</p>
                            <p>Clone the project repository from GitHub to your local machine using the following command:</p>
                            <p style="color:blue;">git clone https://github.com/poojakhandait/AWAK_Task.git</p>
                      <p>2.Navigate to the Project Directory:</p>
