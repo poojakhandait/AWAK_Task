@@ -11,7 +11,7 @@
 <h3>#Instructions to Run the Project:</h3>
 
  <h4>*Prerequisites:</h4>
-                <p>Before you begin, ensure you have met the following requirements:</p>
+                <h5>Before you begin, ensure you have met the following requirements:</h5>
                     <p>- A web browser (e.g., Chrome, Firefox, Safari)</p>
                     <p>- An internet connection (for loading external libraries like FontAwesome)</p>
 <h4>*Running the Project:</h4>
