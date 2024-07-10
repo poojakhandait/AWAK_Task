@@ -1,7 +1,7 @@
 <h2>#Login Page<h2>
-        This is a simple login page that includes username/email, password fields, and a "Remember Me" checkbox.
+        <p>This is a simple login page that includes username/email, password fields, and a "Remember Me" checkbox.
         The project validates user input and displays error messages if the input is invalid. Additionally, 
-        it uses a loading spinner during form submission and provides an eye icon to toggle the visibility of the password.
+        it uses a loading spinner during form submission and provides an eye icon to toggle the visibility of the password.</p>
   
 <h3>#Files</h3>
      <p>- `index.html`: The main HTML file that contains the structure of the login page.</p>
