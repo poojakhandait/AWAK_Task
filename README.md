@@ -5,8 +5,8 @@
   
 <h3>#Files</h3>
      <p>- `index.html`: The main HTML file that contains the structure of the login page.</p>
-     - `styles.css`: The CSS file that styles the login page.
-     - `script.js`: The JavaScript file that handles form validation and submission.
+     <p>- `styles.css`: The CSS file that styles the login page.</p>
+     <p>- `script.js`: The JavaScript file that handles form validation and submission.</p>
      
 <h3>#Instructions to Run the Project</h3>
 
