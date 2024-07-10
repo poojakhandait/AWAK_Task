@@ -20,6 +20,11 @@
                            <p>Clone the project repository from GitHub to your local machine using the following command:</p>
                            <p style="color:blue;">git clone https://github.com/poojakhandait/AWAK_Task.git</p>
                      <p>2.Navigate to the Project Directory:</p>
+                           <p>Open your terminal and navigate to the project directory:</p>
+                           <p>cd your-repository</p>
+                     <p>3.Open the Project in a Web Browser:</p>
+                           <p>Open the index.html file in your preferred web browser. You can do this by either double-clicking the file or using the following command in your terminal:</p>
+                           
 
 
         
