@@ -37,6 +37,17 @@
                            <p>start index.html</p>
                            <h5>On Linux, use:</h5>
                            <p>xdg-open index.html</p>
+<h3>#External Libraries Used</h3>
+                            <p>FontAwesome for icons</p>
+<h3>Using the Login Page:</h3>
+                            <p>Enter a username or email in the "Username/Email" field.</p>
+                             <p>Enter a password in the "Password" field.</p>
+                            <p>Optionally, check the "Remember Me" checkbox.</p>
+                            <p>Click the "Submit" button to simulate a login process.</p>
+                             <p>If there are validation errors, appropriate error messages will be displayed.</p>
+                           <p>The loading spinner will appear while the simulated login request is processed.</p>
+<h3>For Project Result You Can Click On This Link:</h3>
+      <p style="color:blue;">https://poojakhandait.github.io/AWAK_Task/</p>
                            
                            
 
