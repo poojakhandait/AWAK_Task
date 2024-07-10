@@ -15,8 +15,8 @@
                     <p>- A web browser (e.g., Chrome, Firefox, Safari)</p>
                     <p>- An internet connection (for loading external libraries like FontAwesome)</p>
 <h4>*Running the Project:</h4>
-                Follow these steps to run the project locally:
-                     1. **Clone the Repository:**
+                <p>Follow these steps to run the project locally:</p>
+                     <h5>1.Clone the Repository:</h5>
                            Clone the project repository from GitHub to your local machine using the following command:
                            
                                   git clone https://github.com/your-username/your-repository.git
