@@ -48,6 +48,9 @@
                            <p>The loading spinner will appear while the simulated login request is processed.</p>
 <h3>#For Project Result You Can Click On This Link:</h3>
       <p style="color:blue;">https://poojakhandait.github.io/AWAK_Task/</p>
+      Example:
+      UserName/Email_id:poojakhandait1928@gmail.com
+      Password:123456 or hii987
 <h3>#Notes</h3>
        <p>The form submission is handled by JavaScript (script.js). It simulates an API login request using fetch with a mock URL.</p>
        <p>The form fields are validated for required inputs and proper email format.</p>
